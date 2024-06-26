@@ -33,7 +33,7 @@ Bienvenue dans notre projet dédié à l'amélioration du diagnostic médical de
 ## 🔧 Fonctionnalités 🔧
 
 ### 📊 Collecte de Données
-- **Données Fournies :** 3929 scans IRM cérébraux avec localisation des tumeurs
+- **Données Fournies :** 429 scans IRM cérébraux avec localisation des tumeurs qu'on a utilisé.
 
 ### 🧠 Détection et Localisation des Tumeurs
 - **Modèles Utilisés :**
